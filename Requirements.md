@@ -31,6 +31,7 @@ The data structures used in this project are:
 - Heap
 - Stack
 - Graph
+- priority queue
 
 - The array data structure is implemented using ArrayList class which is a resizable array. It stores data in contiguous memory locations.
 - Hashmap data structure is used to store key-value pairs.
