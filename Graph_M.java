@@ -1,7 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-	
 	public class Graph_M 
 	{
 		public class Vertex 
@@ -141,7 +140,7 @@ import java.io.*;
 			System.out.println("\n***********************************************************************\n");
 		}
 			
-	/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		
 		public boolean hasPath(String vname1, String vname2, HashMap<String, Boolean> processed) 
 		{
