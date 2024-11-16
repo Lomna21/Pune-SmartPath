@@ -1,4 +1,4 @@
-# DELHI METRO PROJECT
+# Pune SmartPath PROJECT
 
 This C++ program allows users to input the names of the source and destination bus stop in Pune city. It then calculates and displays the shortest route and fare between the two stations.It will also be having a map for commuter’s better navigation.
 
